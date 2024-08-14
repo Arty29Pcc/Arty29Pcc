@@ -1,0 +1,6 @@
+- 👋 Hi, my name is Arthur
+- 👀 I’m interested in building stuff and programming 
+- 🌱 I’m currently learning Javascript 
+- 🌐 I'm from Brazil but I can understand english perfectly 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I try to always look for the bright side of the problem 
